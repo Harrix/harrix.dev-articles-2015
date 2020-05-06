@@ -1,6 +1,6 @@
 ---
 categories: [it, web]
-tags: [disqus]
+tags: [Disqus]
 ---
 
 # Как удалить из disqus канал своего сайта
