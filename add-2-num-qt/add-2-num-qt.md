@@ -10,7 +10,7 @@ tags: [Qt, C++, Сложение двух чисел]
 
 ## Приготовления
 
-В статье [Установка Qt](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-19-install-qt-mingw/2018-08-19-install-qt-mingw.md) и в статье [Установка Qt под Visual Studio, MinGW и для разработки под Android](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-19-install-qt-advanced/2018-08-19-install-qt-advanced.md) узнаете, как всё установить и настроить.
+В статье [Установка Qt](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-qt-mingw/install-qt-mingw.md) и в статье [Установка Qt под Visual Studio, MinGW и для разработки под Android](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-qt-advanced/install-qt-advanced.md) узнаете, как всё установить и настроить.
 
 ## Создание проекта
 

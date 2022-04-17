@@ -12,7 +12,7 @@ update: 2018
 
 ## Приготовления
 
-В статье [Установка Eclipse в Windows](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-12-22-install-eclipse-java/2014-12-22-install-eclipse-java.md) узнаете, как всё установить и настроить.
+В статье [Установка Eclipse в Windows](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/install-eclipse-java/install-eclipse-java.md) узнаете, как всё установить и настроить.
 
 ## Создание проекта
 

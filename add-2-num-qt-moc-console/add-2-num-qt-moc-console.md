@@ -8,11 +8,11 @@ tags: [Qt, C++, Сложение двух чисел]
 
 В статье рассказывается, как создать консольное приложение сложения двух чисел в Qt 5.4.0 с использованием библиотеки Qt (то есть с использованием moc компилятора).
 
-В статье [Сложение двух чисел в Qt 5.12.0 на C++ (консольное приложение)](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-10-07-add-2-num-qt-console/2018-10-07-add-2-num-qt-console.md) рассказывается, как создать классическое консольное приложение в Qt без привлечения библиотек Qt.
+В статье [Сложение двух чисел в Qt 5.12.0 на C++ (консольное приложение)](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/add-2-num-qt-console/add-2-num-qt-console.md) рассказывается, как создать классическое консольное приложение в Qt без привлечения библиотек Qt.
 
 ## Приготовления
 
-В статье [Установка Qt](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-19-install-qt-mingw/2018-08-19-install-qt-mingw.md) и в статье [Установка Qt под Visual Studio, MinGW и для разработки под Android](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-19-install-qt-advanced/2018-08-19-install-qt-advanced.md) узнаете, как всё установить и настроить.
+В статье [Установка Qt](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-qt-mingw/install-qt-mingw.md) и в статье [Установка Qt под Visual Studio, MinGW и для разработки под Android](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-qt-advanced/install-qt-advanced.md) узнаете, как всё установить и настроить.
 
 ## Создание проекта
 
