@@ -1,4 +1,5 @@
 ---
+date: 2015-05-04
 categories: [photo]
 tags: [Samsung, Обои, Wallpapers]
 download: files/samsung-harrix-wallpapers-2560x2560.zip

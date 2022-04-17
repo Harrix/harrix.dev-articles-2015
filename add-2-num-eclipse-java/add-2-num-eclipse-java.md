@@ -1,4 +1,5 @@
 ---
+date: 2015-02-08
 categories: [it, programming]
 tags: [Eclipse, Java, Сложение двух чисел]
 related-id: start-java

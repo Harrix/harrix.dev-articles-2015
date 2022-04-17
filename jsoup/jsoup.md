@@ -1,4 +1,5 @@
 ---
+date: 2015-02-18
 categories: [it, programming]
 tags: [Android Studio, Android, Java]
 update: 2019-11-03

@@ -1,4 +1,5 @@
 ---
+date: 2015-02-09
 categories: [it, program]
 tags: [Notepad++, Текстовой редактор]
 ---

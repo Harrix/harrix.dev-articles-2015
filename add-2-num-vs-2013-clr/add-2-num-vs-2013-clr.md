@@ -1,4 +1,5 @@
 ---
+date: 2015-02-15
 categories: [it, programming]
 tags: [Visual Studio, C++, Сложение двух чисел]
 ---

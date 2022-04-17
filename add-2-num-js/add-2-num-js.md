@@ -1,4 +1,5 @@
 ---
+date: 2015-07-14
 categories: [it, web]
 tags: [HTML, JavaScript, Сложение двух чисел]
 demo: https://codepen.io/Harrix/pen/ZqxpOv

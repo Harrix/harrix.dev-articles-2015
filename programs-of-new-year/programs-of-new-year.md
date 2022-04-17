@@ -1,4 +1,5 @@
 ---
+date: 2015-12-31
 categories: [it, programming]
 tags: [Java, C++, Qt, Visual Studio]
 ---

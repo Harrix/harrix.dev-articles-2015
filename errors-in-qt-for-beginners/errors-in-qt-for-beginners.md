@@ -1,4 +1,5 @@
 ---
+date: 2015-02-19
 categories: [it, programming]
 tags: [Qt, C++]
 ---

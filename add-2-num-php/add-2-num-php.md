@@ -1,4 +1,5 @@
 ---
+date: 2015-07-14
 categories: [it, web]
 tags: [HTML, PHP, Сложение двух чисел]
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2015-02-09
 categories: [it, programming]
 tags: [Qt, C++, Сложение двух чисел]
 ---
