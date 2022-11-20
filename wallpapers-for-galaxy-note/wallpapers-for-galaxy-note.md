@@ -2,7 +2,7 @@
 date: 2015-05-04
 categories: [photo]
 tags: [Samsung, Обои, Wallpapers]
-download: files/samsung-harrix-wallpapers-2560x2560.zip
+download: https://github.com/Harrix/harrix.dev-blog-2015/raw/main/wallpapers-for-galaxy-note/files/Samsung-Harrix-Wallpapers-2560x2560.zip
 ---
 
 # Обои для Samsung Galaxy Note 2014 Edition и других устройств (2560 × 2560)
