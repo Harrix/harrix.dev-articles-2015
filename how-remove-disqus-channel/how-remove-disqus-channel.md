@@ -2,6 +2,8 @@
 date: 2015-12-06
 categories: [it, web]
 tags: [Disqus]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как удалить из disqus канал своего сайта

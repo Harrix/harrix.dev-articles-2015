@@ -2,6 +2,8 @@
 date: 2015-02-09
 categories: [it, programming]
 tags: [Qt, C++]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Русские буквы в консольных приложениях Qt

@@ -4,6 +4,8 @@ categories: [it, programming]
 tags: [Eclipse, Java, Сложение двух чисел]
 related-id: start-java
 update: 2018
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел в Eclipse на Java (консольное приложение)

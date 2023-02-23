@@ -2,6 +2,8 @@
 date: 2015-08-15
 categories: [photo]
 tags: [Lightroom, Photo]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # В Lightroom фотографии становятся темнее. Nikon

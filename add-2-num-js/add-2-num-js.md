@@ -3,6 +3,8 @@ date: 2015-07-14
 categories: [it, web]
 tags: [HTML, JavaScript, Сложение двух чисел]
 demo: https://codepen.io/Harrix/pen/ZqxpOv
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел на HTML + JavaScript

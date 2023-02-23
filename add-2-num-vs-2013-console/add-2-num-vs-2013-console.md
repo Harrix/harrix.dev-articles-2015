@@ -2,6 +2,8 @@
 date: 2015-02-08
 categories: [it, programming]
 tags: [Visual Studio, C++, Сложение двух чисел]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел в Visual Studio 2013 (консольное Win32 приложение)

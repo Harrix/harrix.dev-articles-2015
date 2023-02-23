@@ -2,6 +2,8 @@
 date: 2015-12-31
 categories: [it, programming]
 tags: [Java, C++, Qt, Visual Studio]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Поздравления с Новым годом в виде программ

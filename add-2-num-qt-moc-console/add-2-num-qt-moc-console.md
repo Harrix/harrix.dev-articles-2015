@@ -2,6 +2,8 @@
 date: 2015-02-09
 categories: [it, programming]
 tags: [Qt, C++, Сложение двух чисел]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел в Qt 5.4.0 на C++ (консольное приложение c moc компилятором)
