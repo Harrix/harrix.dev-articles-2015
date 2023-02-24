@@ -8,6 +8,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2015/blob/main/wallpapers-for-galaxy-note/wallpapers-for-galaxy-note.md
+url: https://harrix.dev/ru/blog/2015/wallpapers-for-galaxy-note/
 ---
 
 # Обои для Samsung Galaxy Note 2014 Edition и других устройств (2560 × 2560)
