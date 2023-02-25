@@ -25,9 +25,13 @@ lang: ru
 
 ![JPG с D-Lighting](img/jpg-with-d-lighting.jpg)
 
+_Рисунок 1 — JPG с D-Lighting_
+
 Вот так эта фотка выглядит в Lightroom, если загрузить RAW версию снимка:
 
 ![Lightroom с D-Lighting](img/lightroom-with-d-lighting.jpg)
+
+_Рисунок 2 — Lightroom с D-Lighting_
 
 Как видим, jpg гораздо ярче (D-Light поработал).
 
@@ -35,9 +39,13 @@ lang: ru
 
 ![JPG без D-Lighting](img/jpg-without-d-lighting.jpg)
 
+_Рисунок 3 — JPG без D-Lighting_
+
 А в Lightroom выглядит так:
 
 ![Lightroom без D-Lighting](img/lightroom-without-d-lighting.jpg)
+
+_Рисунок 4 — Lightroom без D-Lighting_
 
 Как видим, по экспозиции варианты не отличаются почти.
 
@@ -45,6 +53,12 @@ lang: ru
 
 ![Вход в настройки на фотоаппарате](img/settings_01.jpg)
 
+_Рисунок 5 — Вход в настройки на фотоаппарате_
+
 ![Настройка ADL](img/settings_02.jpg)
 
+_Рисунок 6 — Настройка ADL_
+
 ![Отключение «Активный D-lighting»](img/settings_03.jpg)
+
+_Рисунок 7 — Отключение «Активный D-lighting»_
