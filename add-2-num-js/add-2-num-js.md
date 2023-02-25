@@ -14,6 +14,8 @@ lang: ru
 
 # Сложение двух чисел на HTML + JavaScript
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается как создать приложение сложения двух чисел на HTML + JavaScript.
 
 <https://codepen.io/Harrix/pen/ZqxpOv>
