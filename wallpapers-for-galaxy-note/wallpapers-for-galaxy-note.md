@@ -22,4 +22,19 @@ lang: ru
 
 В архиве находятся полные версии, а в галереи ниже размеры изображений снижены до 1500 × 1500 px.
 
-[!gallery](gallery)
+- [![Wallpaper](gallery-thumb/samsung-harrix-01.jpg)](gallery/samsung-harrix-01.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-02.jpg)](gallery/samsung-harrix-02.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-03.jpg)](gallery/samsung-harrix-03.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-04.jpg)](gallery/samsung-harrix-04.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-05.jpg)](gallery/samsung-harrix-05.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-06.jpg)](gallery/samsung-harrix-06.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-07.jpg)](gallery/samsung-harrix-07.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-08.jpg)](gallery/samsung-harrix-08.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-09.jpg)](gallery/samsung-harrix-09.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-10.jpg)](gallery/samsung-harrix-10.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-11.jpg)](gallery/samsung-harrix-11.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-12.jpg)](gallery/samsung-harrix-12.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-13.jpg)](gallery/samsung-harrix-13.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-14.jpg)](gallery/samsung-harrix-14.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-15.jpg)](gallery/samsung-harrix-15.jpg)
+- [![Wallpaper](gallery-thumb/samsung-harrix-16.jpg)](gallery/samsung-harrix-16.jpg)
