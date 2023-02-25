@@ -14,7 +14,7 @@ lang: ru
 
 # Обои для Samsung Galaxy Note 2014 Edition и других устройств (2560 × 2560)
 
-![Featured image](featured-image.svg)
+![Featured image](featured-image.jpg)
 
 Тут найдете мои авторские обои (которые сам же и использую) для планшетов. В первую очередь для Samsung Galaxy Note 2014 Edition.
 
