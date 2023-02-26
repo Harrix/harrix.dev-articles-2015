@@ -9,6 +9,14 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2015/blob/main/how-remove-disqus-channel/how-remove-disqus-channel.md
 permalink: https://harrix.dev/ru/blog/2015/how-remove-disqus-channel/
 lang: ru
+attribution:
+  - author: Disqus
+    author-site: https://disqus.com/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Disqus_logo_(white).svg
+    permalink-date: 2019-06-11
+    name: Disqus logo (white).svg
 ---
 
 # Как удалить из disqus канал своего сайта

@@ -10,6 +10,14 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2015/blob/main/add-2-num-js/add-2-num-js.md
 permalink: https://harrix.dev/ru/blog/2015/add-2-num-js/
 lang: ru
+attribution:
+  - author: Chris Williams
+    author-site: https://github.com/voodootikigod
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg
+    permalink-date: 2019-06-10
+    name: Unofficial JavaScript logo 2.svg
 ---
 
 # Сложение двух чисел на HTML + JavaScript
