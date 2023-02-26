@@ -1,11 +1,13 @@
-[
+{
+"attribution":[
   {
     "title": "Unofficial JavaScript logo 2.svg",
-    "url": "https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg",
-    "urlDate": "2019-06-10",
+    "permalink": "https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg",
+    "permalink-date": "2019-06-10",
     "author": "Chris Williams",
-    "authorUrl": "https://github.com/voodootikigod",
+    "author-site": "https://github.com/voodootikigod",
     "license": "Public domain",
-    "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain"
+    "license-url": "https://en.wikipedia.org/wiki/Public_domain"
   }
 ]
+}

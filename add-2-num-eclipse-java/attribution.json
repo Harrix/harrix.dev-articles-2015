@@ -1,11 +1,13 @@
-[
+{
+"attribution":[
   {
     "title": "Eclipse-Luna-Logo.svg",
-    "url": "https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg",
-    "urlDate": "2019-06-07",
+    "permalink": "https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg",
+    "permalink-date": "2019-06-07",
     "author": "Eclipse Foundation",
-    "authorUrl": "http://www.eclipse.org/",
+    "author-site": "http://www.eclipse.org/",
     "license": "Public domain",
-    "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain"
+    "license-url": "https://en.wikipedia.org/wiki/Public_domain"
   }
 ]
+}
