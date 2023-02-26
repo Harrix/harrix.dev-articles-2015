@@ -12,13 +12,9 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2015/blob/main/add-2
 permalink: https://harrix.dev/ru/blog/2015/add-2-num-eclipse-java/
 lang: ru
 attribution:
-  - author: Eclipse Foundation
-    author-site: http://www.eclipse.org/
-    license: Public domain
-    license-url: https://en.wikipedia.org/wiki/Public_domain
-    permalink: https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg
-    permalink-date: 2019-06-07
-    name: Eclipse-Luna-Logo.svg
+- {author: Eclipse Foundation, author-site: 'http://www.eclipse.org/', license: Public
+    domain, license-url: 'https://en.wikipedia.org/wiki/Public_domain', permalink: 'https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg',
+  permalink-date: 2019-06-07, name: Eclipse-Luna-Logo.svg}
 ---
 
 # Сложение двух чисел в Eclipse на Java (консольное приложение)
