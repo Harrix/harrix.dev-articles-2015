@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2015/blob/main/add-2-num-php/add-2-num-php.md
-permalink: https://harrix.dev/ru/blog/2015/add-2-num-php/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2015/blob/main/add-2-num-php/add-2-num-php.md
+permalink: https://harrix.dev/ru/articles/2015/add-2-num-php/
 lang: ru
 ---
 
@@ -19,7 +19,7 @@ lang: ru
 
 ## Приготовления
 
-Нам потребуется так или иначе сервер, на котором просчитываются PHP скрипты. Можно установить локальный сервер (например, [тут](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/apache-php-mysql/apache-php-mysql.md) <!-- https://harrix.dev/ru/blog/2018/apache-php-mysql/ --> описано, как я делаю у себя, но это лишь одна из миллиона инструкций в интернете) через установку связки Apache + PHP + MySQL + phpMyAdmin, можно воспользоваться уже готовыми сборками (Denver, Open Server, WampServer и другие). Можно использовать сервер на каком-нибудь виртуальном хостинге и так далее. В общем, вариантов много.
+Нам потребуется так или иначе сервер, на котором просчитываются PHP скрипты. Можно установить локальный сервер (например, [тут](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/apache-php-mysql/apache-php-mysql.md) <!-- https://harrix.dev/ru/articles/2018/apache-php-mysql/ --> описано, как я делаю у себя, но это лишь одна из миллиона инструкций в интернете) через установку связки Apache + PHP + MySQL + phpMyAdmin, можно воспользоваться уже готовыми сборками (Denver, Open Server, WampServer и другие). Можно использовать сервер на каком-нибудь виртуальном хостинге и так далее. В общем, вариантов много.
 
 Далее предполагается, что у вас есть такой сервер, вы умеете запускать в браузере PHP скрипты.
 
@@ -34,10 +34,7 @@ lang: ru
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Программа сложения двух чисел</title>
   </head>
   <body></body>
@@ -76,10 +73,7 @@ lang: ru
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Программа сложения двух чисел</title>
   </head>
   <body>

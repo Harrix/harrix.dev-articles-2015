@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2015/blob/main/add-2-num-qt/add-2-num-qt.md
-permalink: https://harrix.dev/ru/blog/2015/add-2-num-qt/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2015/blob/main/add-2-num-qt/add-2-num-qt.md
+permalink: https://harrix.dev/ru/articles/2015/add-2-num-qt/
 lang: ru
 attribution:
   - {
@@ -29,7 +29,7 @@ attribution:
 
 ## Приготовления
 
-В статье [Установка Qt](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-qt-mingw/install-qt-mingw.md) <!-- https://harrix.dev/ru/blog/2018/install-qt-mingw/ --> и в статье [Установка Qt под Visual Studio, MinGW и для разработки под Android](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-qt-advanced/install-qt-advanced.md) <!-- https://harrix.dev/ru/blog/2018/install-qt-advanced/ --> узнаете, как всё установить и настроить.
+В статье [Установка Qt](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-qt-mingw/install-qt-mingw.md) <!-- https://harrix.dev/ru/articles/2018/install-qt-mingw/ --> и в статье [Установка Qt под Visual Studio, MinGW и для разработки под Android](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-qt-advanced/install-qt-advanced.md) <!-- https://harrix.dev/ru/articles/2018/install-qt-advanced/ --> узнаете, как всё установить и настроить.
 
 ## Создание проекта
 

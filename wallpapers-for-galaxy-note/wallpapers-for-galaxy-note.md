@@ -2,13 +2,13 @@
 date: 2015-05-04
 categories: [photo]
 tags: [Samsung, Обои, Wallpapers]
-download: https://github.com/Harrix/harrix.dev-blog-2015/raw/main/wallpapers-for-galaxy-note/files/Samsung-Harrix-Wallpapers-2560x2560.zip
+download: https://github.com/Harrix/harrix.dev-articles-2015/raw/main/wallpapers-for-galaxy-note/files/Samsung-Harrix-Wallpapers-2560x2560.zip
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2015/blob/main/wallpapers-for-galaxy-note/wallpapers-for-galaxy-note.md
-permalink: https://harrix.dev/ru/blog/2015/wallpapers-for-galaxy-note/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2015/blob/main/wallpapers-for-galaxy-note/wallpapers-for-galaxy-note.md
+permalink: https://harrix.dev/ru/articles/2015/wallpapers-for-galaxy-note/
 lang: ru
 ---
 

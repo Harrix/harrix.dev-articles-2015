@@ -7,20 +7,12 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2015/blob/main/add-2-num-js/add-2-num-js.md
-permalink: https://harrix.dev/ru/blog/2015/add-2-num-js/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2015/blob/main/add-2-num-js/add-2-num-js.md
+permalink: https://harrix.dev/ru/articles/2015/add-2-num-js/
 lang: ru
 attribution:
-  - {
-      author: Chris Williams,
-      author-site: "https://github.com/voodootikigod",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg",
-      permalink-date: 2019-06-10,
-      name: Unofficial JavaScript logo 2.svg,
-    }
+  - { author: Chris Williams, author-site: "https://github.com/voodootikigod", license: Public
+        domain, license-url: "https://en.wikipedia.org/wiki/Public_domain", permalink: "https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg", permalink-date: 2019-06-10, name: Unofficial JavaScript logo 2.svg }
 ---
 
 # Сложение двух чисел на HTML + JavaScript
@@ -46,10 +38,7 @@ attribution:
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Программа сложения двух чисел</title>
   </head>
   <body></body>
@@ -92,21 +81,14 @@ attribution:
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Программа сложения двух чисел</title>
   </head>
   <body>
     <form>
       <input id="a" type="text" value="1" /><br />
       <input id="b" type="text" value="1" /><br />
-      <input
-        type="button"
-        value="Сложить 2 два числа"
-        onclick="addition();"
-      /><br />
+      <input type="button" value="Сложить 2 два числа" onclick="addition();" /><br />
     </form>
     <div id="result"></div>
   </body>
@@ -136,10 +118,7 @@ _Рисунок 1 — Запущенная HTML страница_
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Программа сложения двух чисел</title>
 
     <script>
@@ -150,11 +129,7 @@ _Рисунок 1 — Запущенная HTML страница_
     <form>
       <input id="a" type="text" value="1" /><br />
       <input id="b" type="text" value="1" /><br />
-      <input
-        type="button"
-        value="Сложить 2 два числа"
-        onclick="addition();"
-      /><br />
+      <input type="button" value="Сложить 2 два числа" onclick="addition();" /><br />
     </form>
     <div id="result"></div>
   </body>
@@ -196,10 +171,7 @@ document.getElementById("result").innerHTML = a + " + " + b + " = " + c;
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Программа сложения двух чисел</title>
 
     <script>
@@ -220,11 +192,7 @@ document.getElementById("result").innerHTML = a + " + " + b + " = " + c;
     <form>
       <input id="a" type="text" value="1" /><br />
       <input id="b" type="text" value="1" /><br />
-      <input
-        type="button"
-        value="Сложить 2 два числа"
-        onclick="addition();"
-      /><br />
+      <input type="button" value="Сложить 2 два числа" onclick="addition();" /><br />
     </form>
     <div id="result"></div>
   </body>

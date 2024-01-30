@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2015/blob/main/cyrillic-in-qt-console/cyrillic-in-qt-console.md
-permalink: https://harrix.dev/ru/blog/2015/cyrillic-in-qt-console/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2015/blob/main/cyrillic-in-qt-console/cyrillic-in-qt-console.md
+permalink: https://harrix.dev/ru/articles/2015/cyrillic-in-qt-console/
 lang: ru
 ---
 
