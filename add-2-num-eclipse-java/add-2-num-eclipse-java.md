@@ -24,7 +24,7 @@ attribution:
 
 ## Приготовления
 
-В статье [Установка Eclipse в Windows](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/install-eclipse-java/install-eclipse-java.md) <!-- https://harrix.dev/ru/articles/2014/install-eclipse-java/ --> узнаете, как всё установить и настроить.
+В статье [Установка Eclipse в Windows](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/install-eclipse-java/install-eclipse-java.md)<!-- https://harrix.dev/ru/articles/2014/install-eclipse-java/ --> узнаете, как всё установить и настроить.
 
 ## Создание проекта
 
