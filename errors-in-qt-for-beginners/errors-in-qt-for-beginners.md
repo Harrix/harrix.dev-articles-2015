@@ -19,7 +19,7 @@ lang: ru
 
 ## Забыли закрыть программу
 
-```console
+```powershell
 error: ld returned 1 exit status
 ```
 
@@ -31,7 +31,7 @@ _Рисунок 1 — Ошибка «error: ld returned 1 exit status»_
 
 ## Забыли удалить объявление метода
 
-```console
+```powershell
 error: undefined reference to `MainWindow::on_textEdit_destroyed()'
 ```
 
