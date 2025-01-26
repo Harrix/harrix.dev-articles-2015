@@ -1,7 +1,10 @@
 ---
 date: 2015-12-06
-categories: [it, web]
-tags: [Disqus]
+categories:
+  - it
+  - web
+tags:
+  - Disqus
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -10,15 +13,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2015/blob/main/h
 permalink: https://harrix.dev/ru/articles/2015/how-remove-disqus-channel/
 lang: ru
 attribution:
-  - {
-      author: Disqus,
-      author-site: "https://disqus.com/",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Disqus_logo_(white).svg",
-      permalink-date: 2019-06-11,
-      name: Disqus logo (white).svg,
-    }
+  - author: Disqus
+    author-site: https://disqus.com/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Disqus_logo_(white).svg
+    permalink-date: 2019-06-11
+    name: Disqus logo (white).svg
 ---
 
 # Как удалить из disqus канал своего сайта

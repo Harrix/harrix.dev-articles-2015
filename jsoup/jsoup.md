@@ -1,7 +1,12 @@
 ---
 date: 2015-02-18
-categories: [it, programming]
-tags: [Android Studio, Android, Java]
+categories:
+  - it
+  - programming
+tags:
+  - Android Studio
+  - Android
+  - Java
 update: 2019-11-03
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com

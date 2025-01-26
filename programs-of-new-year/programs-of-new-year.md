@@ -1,7 +1,13 @@
 ---
 date: 2015-12-31
-categories: [it, programming]
-tags: [Java, C++, Qt, Visual Studio]
+categories:
+  - it
+  - programming
+tags:
+  - Java
+  - C++
+  - Qt
+  - Visual Studio
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

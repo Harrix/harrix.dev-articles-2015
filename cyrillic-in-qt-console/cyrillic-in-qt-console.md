@@ -1,7 +1,11 @@
 ---
 date: 2015-02-09
-categories: [it, programming]
-tags: [Qt, C++]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - C++
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,7 +1,11 @@
 ---
 date: 2015-05-04
-categories: [photo]
-tags: [Samsung, Обои, Wallpapers]
+categories:
+  - photo
+tags:
+  - Samsung
+  - Обои
+  - Wallpapers
 download: https://github.com/Harrix/harrix.dev-articles-2015/raw/main/wallpapers-for-galaxy-note/files/Samsung-Harrix-Wallpapers-2560x2560.zip
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com

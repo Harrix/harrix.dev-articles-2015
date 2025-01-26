@@ -1,7 +1,12 @@
 ---
 date: 2015-07-14
-categories: [it, web]
-tags: [HTML, JavaScript, Сложение двух чисел]
+categories:
+  - it
+  - web
+tags:
+  - HTML
+  - JavaScript
+  - Сложение двух чисел
 demo: https://codepen.io/Harrix/pen/ZqxpOv
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
@@ -11,16 +16,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2015/blob/main/a
 permalink: https://harrix.dev/ru/articles/2015/add-2-num-js/
 lang: ru
 attribution:
-  - {
-      author: Chris Williams,
-      author-site: "https://github.com/voodootikigod",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg",
-      permalink-date: 2019-06-10,
-      name: Unofficial JavaScript logo 2.svg,
-    }
+  - author: Chris Williams
+    author-site: https://github.com/voodootikigod
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg
+    permalink-date: 2019-06-10
+    name: Unofficial JavaScript logo 2.svg
 ---
 
 # Сложение двух чисел на HTML + JavaScript
