@@ -41,9 +41,9 @@ attribution:
 - [Наполнение HTML](#наполнение-html)
 - [Функция JavaScript](#функция-javascript)
 
-<https://codepen.io/Harrix/pen/ZqxpOv>
-
 </details>
+
+<https://codepen.io/Harrix/pen/ZqxpOv>
 
 ## Приготовления
 
