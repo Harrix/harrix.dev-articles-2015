@@ -26,6 +26,8 @@ lang: ru
 <details>
 <summary>📖 Содержание</summary>
 
+## Содержание
+
 - [Visual Studio C++](#visual-studio-c)
 - [Qt C++](#qt-c)
 - [Java](#java)
