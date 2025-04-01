@@ -22,12 +22,15 @@ lang: ru
 
 В статье рассказывается как создать приложение сложения двух чисел на HTML + PHP.
 
-## Содержание
+<details>
+<summary>📖 Содержание</summary>
 
 - [Приготовления](#приготовления)
 - [Создание болванки](#создание-болванки)
 - [Наполнение HTML](#наполнение-html)
 - [PHP код](#php-код)
+
+</details>
 
 ## Приготовления
 
@@ -42,14 +45,11 @@ lang: ru
 Закинем в него простую болванку HTML5 документа:
 
 ```html
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Программа сложения двух чисел</title>
   </head>
   <body></body>
@@ -84,14 +84,11 @@ lang: ru
 Общий документ будет иметь вид:
 
 ```html
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Программа сложения двух чисел</title>
   </head>
   <body>
