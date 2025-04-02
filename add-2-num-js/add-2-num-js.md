@@ -60,7 +60,10 @@ attribution:
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
     <title>Программа сложения двух чисел</title>
   </head>
   <body></body>
@@ -103,14 +106,21 @@ attribution:
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
     <title>Программа сложения двух чисел</title>
   </head>
   <body>
     <form>
       <input id="a" type="text" value="1" /><br />
       <input id="b" type="text" value="1" /><br />
-      <input type="button" value="Сложить 2 два числа" onclick="addition();" /><br />
+      <input
+        type="button"
+        value="Сложить 2 два числа"
+        onclick="addition();"
+      /><br />
     </form>
     <div id="result"></div>
   </body>
@@ -140,7 +150,10 @@ _Рисунок 1 — Запущенная HTML страница_
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
     <title>Программа сложения двух чисел</title>
 
     <script>
@@ -151,7 +164,11 @@ _Рисунок 1 — Запущенная HTML страница_
     <form>
       <input id="a" type="text" value="1" /><br />
       <input id="b" type="text" value="1" /><br />
-      <input type="button" value="Сложить 2 два числа" onclick="addition();" /><br />
+      <input
+        type="button"
+        value="Сложить 2 два числа"
+        onclick="addition();"
+      /><br />
     </form>
     <div id="result"></div>
   </body>
@@ -193,7 +210,10 @@ document.getElementById("result").innerHTML = a + " + " + b + " = " + c;
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
     <title>Программа сложения двух чисел</title>
 
     <script>
@@ -214,7 +234,11 @@ document.getElementById("result").innerHTML = a + " + " + b + " = " + c;
     <form>
       <input id="a" type="text" value="1" /><br />
       <input id="b" type="text" value="1" /><br />
-      <input type="button" value="Сложить 2 два числа" onclick="addition();" /><br />
+      <input
+        type="button"
+        value="Сложить 2 два числа"
+        onclick="addition();"
+      /><br />
     </form>
     <div id="result"></div>
   </body>
