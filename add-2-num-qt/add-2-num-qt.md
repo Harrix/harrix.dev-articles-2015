@@ -45,7 +45,7 @@ attribution:
 
 ## Приготовления
 
-В статье [Установка Qt](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-qt-mingw/install-qt-mingw.md) | [🡥](https://harrix.dev/ru/articles/2018/install-qt-mingw/) и в статье [Установка Qt под Visual Studio, MinGW и для разработки под Android](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-qt-advanced/install-qt-advanced.md) | [🡥](https://harrix.dev/ru/articles/2018/install-qt-advanced/) узнаете, как всё установить и настроить.
+В статье [Установка Qt](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-qt-mingw/install-qt-mingw.md) | [↗️](https://harrix.dev/ru/articles/2018/install-qt-mingw/) и в статье [Установка Qt под Visual Studio, MinGW и для разработки под Android](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-qt-advanced/install-qt-advanced.md) | [↗️](https://harrix.dev/ru/articles/2018/install-qt-advanced/) узнаете, как всё установить и настроить.
 
 ## Создание проекта
 
